@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UserInputJUnitTests1" type="JUnit" factoryName="JUnit">
+    <module name="POP_ReadingAndWriting_STAFF" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="UserInputJUnitTests1" />
+    <option name="METHOD_NAME" value="testSayHello" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2" />
+  </configuration>
+</component>

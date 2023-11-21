@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-api-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-params-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-engine-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-5.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/apiguardian-api-1.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-platform-engine-1.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-platform-commons-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-engine-5.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-platform-commons-1.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-params-5.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-jupiter-api-5.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/junit-platform-engine-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/POP_ReadingAndWriting/POP_ReadingAndWriting/POP_ReadingAndWriting/lib/opentest4j-1.2.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
